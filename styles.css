@@ -1,0 +1,167 @@
+#title {
+
+   background-color: #30475E;
+}
+
+.container-fluid {
+    padding: 3% 15% ;
+}
+
+body{
+  
+font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    font-family: 'Zeyada', cursive;
+    size: 3rem;
+    line-height: 1.5;
+    color: white;
+   
+}
+
+h2{
+    color: #222831;
+}
+h4{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: justify;
+
+}
+
+.navbar{
+    /* to push heading text to bottom */
+    padding-bottom: 4.5rem;  
+ 
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-item{
+    padding: 0 18px;;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    
+}
+
+.butto{
+    margin: 5% 3% 5% 0 ;
+}
+
+/* title image */
+
+.title-image{
+    width:60%;
+    margin-left: 163px;
+}
+
+/* Features section(2nd scroll) */
+
+#features {
+    padding: 7% 15%;
+    
+}
+
+.feature-box{
+    text-align: center;
+   padding: 5%;
+}
+
+h3{
+    font-family: 'Montserrat-Bold';
+    font-size: 1.5rem;
+}
+
+p{
+    color: #30475E;
+}
+
+.icons{
+    margin-bottom: 2rem;
+}
+
+
+/* Testimonials */
+
+#testimonials{
+    padding: 7% 15%;
+    background-color: #dddddd;
+}
+
+#about {
+    font-family: 'Ubuntu', sans-serif;
+    
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 45px;
+}
+ .mepic{
+    margin-left:60px ;
+ }
+
+ #portfolio{
+
+    padding: 100px;
+ }
+
+ .price-column{
+    padding: 3% 4%;
+ }
+
+ @media (max-width : 1028px) {
+
+    h4{
+        text-align: justify;
+    }
+    
+ }
+
+ #cta{
+    background-color: #f05454;
+    text-align: center;
+ 
+    font-family: 'Montserrat-Bold';
+   
+    padding: 7% 15%;
+ }
+
+
+ #fine{
+
+    color: white;
+    font-size: 3.5rem;
+    margin: 20px;
+    
+ }
+
+ .contacts{
+    font-family: 'Ubuntu', sans-serif;
+    
+ }
+
+ .footer-link{
+
+    color: white;
+    
+    margin : 20px 10px ;
+ }
+
+ #resume{
+    padding: 7% 15%;
+    background-color: #222831;
+    color: #dddddd;
+}
+    
+.skill-col{
+    padding-top: 50px;
+    color: white;
+}
+     
+ul {
+    list-style: square;
+  }
+  
